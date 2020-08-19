@@ -423,7 +423,7 @@ configuration:
   - `recordTaskOutVars` - enable or disable recording of output variables in
     task calls;
   - `outVarsBlacklist` - list of variable names that must not be recorded if
-    `recordTaskInVars` is `true`.
+    `recordTaskOutVars` is `true`.
 
 See the [Process Events](../index.html#process-events) section for more
 details about the process event recording.
