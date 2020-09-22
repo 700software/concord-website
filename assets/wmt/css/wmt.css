@@ -101,7 +101,7 @@
 /* ------------------------------ GENERAL STYLES ------------------------------ */
 
 html {
-  overflow: scroll;
+  overflow: auto;
   background: #ffffff; }
 
 html, body {
